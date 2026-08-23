@@ -3,6 +3,6 @@ using namespace std;
 
 int main(){
     int n;
-    cin>>n;
-    cout<<n;
+    string s="dobar dan";
+    cout<<s.substr(6)<<endl;
 }
