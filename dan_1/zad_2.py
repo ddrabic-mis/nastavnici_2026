@@ -1,0 +1,10 @@
+A="Dobar\n\"dan\""
+A='Dobar\n"dan"'
+B=f"Dobar\n\"dan\""
+C=r"Dobar\n\"dan\""
+print(A)
+print(B)
+print(C)
+print(f"{A=}")
+print(f"{B=}")
+print(f"{C=}")
