@@ -44,6 +44,9 @@ build/
 Build/
 build-*/
 
+# mapa nazočnih
+/nazocni
+
 # CMake generated files
 CMakeFiles/
 CMakeCache.txt
